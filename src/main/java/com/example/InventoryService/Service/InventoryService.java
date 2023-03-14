@@ -1,6 +1,6 @@
 package com.example.InventoryService.Service;
 
-import com.example.InventoryService.Repo.InventoryRepo;
+import com.example.InventoryService.Repository.InventoryRepo;
 import com.example.InventoryService.dto.InventoryRequest;
 import com.example.InventoryService.model.Inventory;
 import lombok.RequiredArgsConstructor;

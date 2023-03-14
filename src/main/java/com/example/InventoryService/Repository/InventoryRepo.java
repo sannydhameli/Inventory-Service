@@ -1,4 +1,4 @@
-package com.example.InventoryService.Repo;
+package com.example.InventoryService.Repository;
 
 import com.example.InventoryService.model.Inventory;
 import org.springframework.data.jpa.repository.JpaRepository;
